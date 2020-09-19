@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to LearnMouv 👋</h1>
 
 **LearnMouv** is an application for students for reading review sheets.
+
 This app is coded in Kotlin for a school project (PPE3).
 
 ## 📥 Google Play
