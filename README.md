@@ -1,7 +1,3 @@
-# LearnMouv
-LearnMouv is an application for students for reading review sheets.
-
-
 <h1 align="center">Welcome to LearnMouv 👋</h1>
 
 **LearnMouv** is an application for students for reading review sheets.
